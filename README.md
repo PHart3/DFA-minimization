@@ -8,7 +8,6 @@ Theoretical Computer Science,
 Volume 250, Issues 1–2,  
 2001,  
 https://doi.org/10.1016/S0304-3975(99)00150-4.  
-(https://www.sciencedirect.com/science/article/pii/S0304397599001504).  
 
 This article uses random-access arrays for most of its main data structures. We, instead, use
 red-black trees, which increases the worst-case runtime. Otherwise, our implementation follows
