@@ -40,7 +40,7 @@ Note that in Section 4.5, the author should say that *x<sup>-1</sup> &cap; B* st
 *x(A) &cap; B*, not *x<sup>-1</sup>(A) &cap; B*.  
 
 We have also corrected a few small mistakes in the article's pseudocode. These corrections are
-marked in the source code.  
+marked in our source code.  
 
 Finally, this code has been tested on just a handful of examples. Please let me know of any bugs
 you find.  
