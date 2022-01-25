@@ -22,7 +22,7 @@ with SML/NJ, where
 - `final` the list of final states,  
 - `M` the measure used for selecting which classes to insert in the list of candidates, and  
 - `trans` the transition function encoded as a list of triples *(x,s,t)* of ints where *s* steps to
-*t* on symbol x.  
+*t* on symbol *x*.  
 
 This will print the states of the minimal DFA.  
 
