@@ -32,9 +32,9 @@ Here, the measure refers to one of the three values
 
 where  
 
-- `class` corresponds to *|B|*,  
-- `x_class` to *|x<sup>-1</sup> &cap; B|*, and  
-- `inv_class` to *|x<sup>&minus;1</sup>(B)|*.  
+- `class` corresponds to *&vert;B&vert;*,  
+- `x_class` to *&vert;x<sup>-1</sup> &cap; B&vert;*, and  
+- `inv_class` to *&vert;x<sup>&minus;1</sup>(B)&vert;*.  
 
 Note that in Section 4.5, the author should say that *x<sup>-1</sup> &cap; B* stands for
 *x(A) &cap; B*, not *x<sup>-1</sup>(A) &cap; B*.  
