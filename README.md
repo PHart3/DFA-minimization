@@ -5,7 +5,7 @@ This is a complete implementation of the DFA minimization algorithm found in
 Timo Knuutila,  
 **Re-describing an algorithm by Hopcroft**,  
 Theoretical Computer Science,  
-https://doi.org/10.1016/S0304-3975(99)00150-4.  
+<https://doi.org/10.1016/S0304-3975(99)00150-4>.  
 
 This article uses random-access arrays for most of its main data structures. We, instead, use
 red-black trees, which increases the worst-case runtime. Otherwise, our implementation follows
